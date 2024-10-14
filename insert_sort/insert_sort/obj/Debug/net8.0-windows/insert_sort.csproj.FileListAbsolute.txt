@@ -1,0 +1,16 @@
+C:\Users\macsa\source\repos\insert_sort\insert_sort\bin\Debug\net8.0-windows\insert_sort.exe
+C:\Users\macsa\source\repos\insert_sort\insert_sort\bin\Debug\net8.0-windows\insert_sort.deps.json
+C:\Users\macsa\source\repos\insert_sort\insert_sort\bin\Debug\net8.0-windows\insert_sort.runtimeconfig.json
+C:\Users\macsa\source\repos\insert_sort\insert_sort\bin\Debug\net8.0-windows\insert_sort.dll
+C:\Users\macsa\source\repos\insert_sort\insert_sort\bin\Debug\net8.0-windows\insert_sort.pdb
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.Form1.resources
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.csproj.GenerateResource.cache
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.AssemblyInfoInputs.cache
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.AssemblyInfo.cs
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.csproj.CoreCompileInputs.cache
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.dll
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\refint\insert_sort.dll
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.pdb
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\insert_sort.genruntimeconfig.cache
+C:\Users\macsa\source\repos\insert_sort\insert_sort\obj\Debug\net8.0-windows\ref\insert_sort.dll

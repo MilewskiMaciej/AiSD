@@ -1,0 +1,17 @@
+C:\Users\macsa\source\repos\sorting_application\sorting_application\bin\Debug\net6.0-windows\sorting_application.exe
+C:\Users\macsa\source\repos\sorting_application\sorting_application\bin\Debug\net6.0-windows\sorting_application.deps.json
+C:\Users\macsa\source\repos\sorting_application\sorting_application\bin\Debug\net6.0-windows\sorting_application.runtimeconfig.json
+C:\Users\macsa\source\repos\sorting_application\sorting_application\bin\Debug\net6.0-windows\sorting_application.dll
+C:\Users\macsa\source\repos\sorting_application\sorting_application\bin\Debug\net6.0-windows\sorting_application.pdb
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.Form1.resources
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.Properties.Resources.resources
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.csproj.GenerateResource.cache
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.AssemblyInfoInputs.cache
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.AssemblyInfo.cs
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.csproj.CoreCompileInputs.cache
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.dll
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\refint\sorting_application.dll
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.pdb
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\sorting_application.genruntimeconfig.cache
+C:\Users\macsa\source\repos\sorting_application\sorting_application\obj\Debug\net6.0-windows\ref\sorting_application.dll

@@ -14,17 +14,24 @@ namespace sorting_application
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int number = int.Parse(textBox1.Text);
-            int[] numbersBefore = nb.ToArray();
-            nb.Add(number);
-            tab.Add(number);
-            button2.Visible = true;
-            button3.Visible = true;
-            button4.Visible = true;
-            button5.Visible = true;
-            button6.Visible = true;
-            button7.Visible = true;
-            label4.Text = "Stan tablicy: [" + string.Join(", ", numbersBefore) + "]";
+            if(int.TryParse(textBox1.Text, out int number))
+            {
+                int[] numbersBefore = nb.ToArray();
+                nb.Add(number);
+                tab.Add(number);
+                button2.Visible = true;
+                button3.Visible = true;
+                button4.Visible = true;
+                button5.Visible = true;
+                button6.Visible = true;
+                button7.Visible = true;
+                label4.Text = "Stan tablicy: [" + string.Join(", ", numbersBefore) + "]";
+            }
+            else
+            {
+                MessageBox.Show("Wprowadzono b³êdne dane.");
+            }
+            textBox1.Clear();
         }
 
         private void button2_Click(object sender, EventArgs e)

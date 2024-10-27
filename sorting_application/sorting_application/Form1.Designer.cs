@@ -1,4 +1,6 @@
-﻿namespace sorting_application
+﻿using sorting_application.Properties;
+
+namespace sorting_application
 {
     partial class Form1
     {
@@ -205,7 +207,6 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Snow;
-            BackgroundImage = Properties.Resources.sea_edge_79ab30e2;
             ClientSize = new Size(800, 450);
             Controls.Add(textBox1);
             Controls.Add(label5);

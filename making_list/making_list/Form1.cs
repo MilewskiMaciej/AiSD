@@ -18,7 +18,7 @@ namespace making_list
             }
             else
             {
-                MessageBox.Show("To nie jest liczba. Podaj liczbê.");
+                MessageBox.Show("Wprowadzono b³êdne dane.");
             }
             textBox1.Clear();
         }
@@ -32,7 +32,7 @@ namespace making_list
             }
             else
             {
-                MessageBox.Show("To nie jest liczba. Podaj liczbê.");
+                MessageBox.Show("Wprowadzono b³êdne dane.");
             }
             textBox1.Clear();
         }

@@ -60,10 +60,11 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.BorderStyle = BorderStyle.FixedSingle;
             label1.ForeColor = Color.FromArgb(64, 64, 64);
             label1.Location = new Point(27, 104);
             label1.Name = "label1";
-            label1.Size = new Size(85, 20);
+            label1.Size = new Size(87, 22);
             label1.TabIndex = 2;
             label1.Text = "Stan listy: {}";
             // 

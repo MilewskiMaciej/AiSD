@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macsa\\source\\repos\\making_list\\making_list\\making_list.csproj",
+      "projectUniqueName": "C:\\Users\\macsa\\Desktop\\making_list\\making_list\\making_list.csproj",
       "projectName": "making_list",
-      "projectPath": "C:\\Users\\macsa\\source\\repos\\making_list\\making_list\\making_list.csproj",
+      "projectPath": "C:\\Users\\macsa\\Desktop\\making_list\\making_list\\making_list.csproj",
       "packagesPath": "C:\\Users\\macsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macsa\\source\\repos\\making_list\\making_list\\obj\\",
+      "outputPath": "C:\\Users\\macsa\\Desktop\\making_list\\making_list\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

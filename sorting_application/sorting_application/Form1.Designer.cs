@@ -47,7 +47,7 @@ namespace sorting_application
             // 
             // button1
             // 
-            button1.Cursor = Cursors.No;
+            button1.Cursor = Cursors.Hand;
             button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             button1.ForeColor = Color.DarkViolet;
             button1.Location = new Point(157, 56);
@@ -60,7 +60,7 @@ namespace sorting_application
             // 
             // button2
             // 
-            button2.Cursor = Cursors.No;
+            button2.Cursor = Cursors.Hand;
             button2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             button2.ForeColor = Color.DarkViolet;
             button2.Location = new Point(89, 409);
@@ -73,7 +73,7 @@ namespace sorting_application
             // 
             // button3
             // 
-            button3.Cursor = Cursors.No;
+            button3.Cursor = Cursors.Hand;
             button3.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             button3.ForeColor = Color.DarkViolet;
             button3.Location = new Point(195, 409);
@@ -86,7 +86,7 @@ namespace sorting_application
             // 
             // button4
             // 
-            button4.Cursor = Cursors.No;
+            button4.Cursor = Cursors.Hand;
             button4.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             button4.ForeColor = Color.DarkViolet;
             button4.Location = new Point(301, 409);
@@ -99,7 +99,7 @@ namespace sorting_application
             // 
             // button5
             // 
-            button5.Cursor = Cursors.No;
+            button5.Cursor = Cursors.Hand;
             button5.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             button5.ForeColor = Color.DarkViolet;
             button5.Location = new Point(407, 409);
@@ -112,7 +112,7 @@ namespace sorting_application
             // 
             // button6
             // 
-            button6.Cursor = Cursors.No;
+            button6.Cursor = Cursors.Hand;
             button6.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             button6.ForeColor = Color.DarkViolet;
             button6.Location = new Point(513, 409);
@@ -125,7 +125,7 @@ namespace sorting_application
             // 
             // button7
             // 
-            button7.Cursor = Cursors.No;
+            button7.Cursor = Cursors.Hand;
             button7.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             button7.ForeColor = Color.DarkViolet;
             button7.Location = new Point(619, 409);

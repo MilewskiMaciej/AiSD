@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "trees_and_roots/1.0.0": {
+        "runtime": {
+          "trees_and_roots.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trees_and_roots/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

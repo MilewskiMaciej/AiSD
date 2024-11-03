@@ -1,0 +1,16 @@
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\bin\Debug\net6.0-windows\walking_on_tree.exe
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\bin\Debug\net6.0-windows\walking_on_tree.deps.json
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\bin\Debug\net6.0-windows\walking_on_tree.runtimeconfig.json
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\bin\Debug\net6.0-windows\walking_on_tree.dll
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\bin\Debug\net6.0-windows\walking_on_tree.pdb
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.Form1.resources
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.csproj.GenerateResource.cache
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.AssemblyInfoInputs.cache
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.AssemblyInfo.cs
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.csproj.CoreCompileInputs.cache
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.dll
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\refint\walking_on_tree.dll
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.pdb
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\walking_on_tree.genruntimeconfig.cache
+C:\Users\macsa\source\repos\walking_on_tree\walking_on_tree\obj\Debug\net6.0-windows\ref\walking_on_tree.dll

@@ -1,0 +1,16 @@
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\bin\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.exe
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\bin\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.deps.json
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\bin\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.runtimeconfig.json
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\bin\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.dll
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\bin\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.pdb
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.Form1.resources
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.csproj.GenerateResource.cache
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.AssemblyInfoInputs.cache
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.AssemblyInfo.cs
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.csproj.CoreCompileInputs.cache
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.dll
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\refint\adding_nodes_and_edges_in_graph.dll
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.pdb
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\adding_nodes_and_edges_in_graph.genruntimeconfig.cache
+C:\Users\macsa\source\repos\adding_nodes_and_edges_in_graph\adding_nodes_and_edges_in_graph\obj\Debug\net6.0-windows\ref\adding_nodes_and_edges_in_graph.dll

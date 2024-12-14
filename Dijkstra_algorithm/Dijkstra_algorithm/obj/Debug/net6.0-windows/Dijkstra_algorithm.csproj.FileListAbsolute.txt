@@ -1,0 +1,16 @@
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\net6.0-windows\Dijkstra_algorithm.exe
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\net6.0-windows\Dijkstra_algorithm.deps.json
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\net6.0-windows\Dijkstra_algorithm.runtimeconfig.json
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\net6.0-windows\Dijkstra_algorithm.dll
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\bin\Debug\net6.0-windows\Dijkstra_algorithm.pdb
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.Form1.resources
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.csproj.GenerateResource.cache
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.AssemblyInfoInputs.cache
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.AssemblyInfo.cs
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.dll
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\refint\Dijkstra_algorithm.dll
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.pdb
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\Dijkstra_algorithm.genruntimeconfig.cache
+C:\Users\macsa\source\repos\Dijkstra_algorithm\Dijkstra_algorithm\obj\Debug\net6.0-windows\ref\Dijkstra_algorithm.dll

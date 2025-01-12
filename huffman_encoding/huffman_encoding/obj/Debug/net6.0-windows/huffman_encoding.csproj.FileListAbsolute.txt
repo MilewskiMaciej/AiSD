@@ -1,0 +1,16 @@
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.Form1.resources
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.csproj.GenerateResource.cache
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.AssemblyInfoInputs.cache
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.AssemblyInfo.cs
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.csproj.CoreCompileInputs.cache
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\bin\Debug\net6.0-windows\huffman_encoding.exe
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\bin\Debug\net6.0-windows\huffman_encoding.deps.json
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\bin\Debug\net6.0-windows\huffman_encoding.runtimeconfig.json
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\bin\Debug\net6.0-windows\huffman_encoding.dll
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\bin\Debug\net6.0-windows\huffman_encoding.pdb
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.dll
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\refint\huffman_encoding.dll
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.pdb
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\huffman_encoding.genruntimeconfig.cache
+C:\Users\macsa\source\repos\huffman_encoding\huffman_encoding\obj\Debug\net6.0-windows\ref\huffman_encoding.dll

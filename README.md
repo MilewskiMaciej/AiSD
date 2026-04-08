@@ -3,16 +3,15 @@
 |           | UAE-Large-V1 | paraphrase-multilingual-mpnet-base-v2 | LaBSE |
 | --------- | ------------ | ------------------------------------- | ----- |
 | Zero-Shot |	100% | 100% |	100% |
-| --------- | ------- | -------- | -------- |
-Active Parameters	0,304	0,086	0,086
-Total Parameters	0,335	0,278	0,471
-Embedding Dimensions	1024	768	768
-Max Tokens	512	512	512
-Mean (Task)	46,09	51,98	52,07
-Mean (TaskType)	39,61	45,17	45,65
-Bitext Mining	26,84	52,06	76,35
-Classification	49,66	55,06	54,60
-Clustering	41,87	40,19	38,08
+| Active Parameters |	0,304 |	0,086 |	0,086 |
+| Total Parameters | 0,335 | 0,278 | 0,471 |
+| Embedding Dimensions | 1024 | 768 | 768 |
+| Max Tokens | 512 | 512 | 512 |
+| Mean (Task) | 46,09 |	51,98 |	52,07 |
+| Mean (TaskType) |	39,61 |	45,17 |	45,65 |
+| Bitext Mining |	26,84 |	52,06 |	76,35 |
+| Classification | 49,66 | 55,06 | 54,60 |
+| Clustering | 41,87 | 40,19 | 38,08 |
 Instruction Reranking	-2,14	-1,14	-3
 Multilabel Classification	17,17	16,40	20,12
 Pair Classification	72,82	81,15	75,97

@@ -3,6 +3,7 @@
 |           | UAE-Large-V1 | paraphrase-multilingual-mpnet-base-v2 | LaBSE |
 | --------- | ------------ | ------------------------------------- | ----- |
 | Zero-Shot |	100% | 100% |	100% |
+| --------- | ------- | -------- | -------- |
 Active Parameters	0,304	0,086	0,086
 Total Parameters	0,335	0,278	0,471
 Embedding Dimensions	1024	768	768
